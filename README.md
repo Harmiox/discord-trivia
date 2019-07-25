@@ -7,6 +7,7 @@ New way of doing trivia on discord. This bot fetches data from a Google Sheets d
 - [Setup](#setup)
   - [Discord](#discord-setup)
   - [Google](#google-setup)
+- [Changelog](#changelog)
 - [Localization](#localization)
 - [Plugins](#plugins)
 
@@ -17,6 +18,9 @@ TODO
 
 ### Google Setup
 TODO
+
+# Changelog
+See [CHANGELOG.md](CHANGELOG.md)
 
 ## Localization
 The bot's framework natively supports text localization if you and your fellow server members happen to speak a different language. For documentation on how to setup your own localization .lang file(s) then visit [yamdbf's localization guide](https://yamdbf.js.org/indev/tutorial-LocalizationGuide.html).

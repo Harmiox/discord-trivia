@@ -22,4 +22,4 @@ TODO
 The bot's framework natively supports text localization if you and your fellow server members happen to speak a different language. For documentation on how to setup your own localization .lang file(s) then visit [yamdbf's localization guide](https://yamdbf.js.org/indev/tutorial-LocalizationGuide.html).
 
 ## Plugins
-The bot's framework natively supports plugins. For documentation on the framework please visit [yamdbf](https://yamdbf.js.org/indev/index.html).
+The bot's framework natively supports plugins. For documentation on the framework please visit [yamdbf](https://yamdbf.js.org/indev/index.html). You can also find plugin examples [here](https://yamdbf.js.org/indev/tutorial-PluginList.html).

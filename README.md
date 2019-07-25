@@ -6,7 +6,7 @@ New way of doing trivia on discord. This bot fetches data from a Google Sheets d
 ## Table of Contents
 - [Setup](#setup)
   - [Discord](#discord-setup)
-	- [Google](#google-setup)
+  - [Google](#google-setup)
 - [Localization](#localization)
 - [Plugins](#plugins)
 
